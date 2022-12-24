@@ -31,7 +31,7 @@ The Neotron Shell can ask the OS to load an application, which will then run. A 
    - Our book covering the Neotron Project, the ideas behind it, and introducing the important concepts
 * *Neotron OS* ([Github](https://github.com/neotron-compute/neotron-os))
    - The Neotron OS runs on any computer with a Neotron BIOS implementation
-* *Neotron Common BIOS/ ([Github](https://github.com/neotron-compute/neotron-common-bios))
+* *Neotron Common BIOS* ([Github](https://github.com/neotron-compute/neotron-common-bios))
    - Code and API shared between the Neotron OS and every Neotron BIOS implementation
 * *Neotron BMC* ([Github](https://github.com/neotron-compute/neotron-bmc))
    - Firmware for the Board Management Controller (BMC) fitted to various Neotron computers 
